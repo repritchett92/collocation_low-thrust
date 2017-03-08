@@ -4,6 +4,6 @@
 
 % Generate array of numbers 1 through 10
 num_array = [];
-for ii = 1:10
+for ii = 1:20
     num_array = [num_array ii];
 end
